@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "instagram",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6dd1f6db-c15e-458a-a98d-acbab06daebd",
+      "database_name": "indtagra"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
